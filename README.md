@@ -1,5 +1,5 @@
 # docker-moac
-MOAC docker image based on ubuntu 1604 x64
+MOAC docker image based on ubuntu 1804 x64
 
 - this docker images was built with binaries and sample configurations from http://daszichan.com/downloads/moac
 - it contains binaries: moac, open-moac-pool
