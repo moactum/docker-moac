@@ -1,4 +1,4 @@
-FROM ubuntu:bionic
+FROM ubuntu:xenial
 
 MAINTAINER Xinchun Liu <lospringliu@gmail.com>
 
