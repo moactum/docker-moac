@@ -11,6 +11,7 @@ MOAC docker image based on ubuntu 1804 x64
 - https://github.com/happyxie/open-moac-pool
 
 # usage
+- moac version Pangu 0.8.2
 - supporting staff
   - [redis-server]
     - needed by mining pool backend proxies and api
