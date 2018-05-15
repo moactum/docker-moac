@@ -47,4 +47,4 @@ MOAC docker image based on ubuntu 1804 x64
        docker run --name payout --network moac lospringliu/moac
 	     /root/open-moac-pool /root/payout.json
 
-you can read online https://github.com/lospringliu/docker-moac
+you can read online https://github.com/moactum/docker-moac

@@ -58,4 +58,4 @@ MOAC docker image based on ubuntu 1604 x64
         - modify  /root/payout.json
         - /root/open-moac-pool /root/payout.json
 
-# you can read online https://github.com/lospringliu/docker-moac
+# you can read online https://github.com/moactum/docker-moac
