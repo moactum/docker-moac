@@ -8,4 +8,4 @@ COPY pangu/moac .
 RUN chmod +x moac
 
 EXPOSE 8545
-CMD ["./moac", "--rpc --rpcaddr 0.0.0.0"]
+CMD ["/moac/moac", "--rpc", "--rpcaddr", "0.0.0.0"]
