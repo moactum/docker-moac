@@ -1,0 +1,11 @@
+FROM ubuntu:latest
+
+MAINTAINER Xinchun Liu <lospringliu@gmail.com>
+ENV WORK_DIR /moac
+WORKDIR $WORK_DIR
+
+COPY pangu/moac .
+RUN chmod +x moac
+
+EXPOSE 8545
+CMD ["./moac", "--rpc --rpcaddr 0.0.0.0"]
